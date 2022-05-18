@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Napolitana",
+        "ingredientes": ["tomate", "mozzarella", "albahaca", "ajo", "anchoas"],
+        "precio": 1200
+    },
+    {
+        "id": 2,
+        "nombre": "Margherita",
+        "ingredientes": ["tomate","albahaca","queso mozzarela"],
+        "precio": 1500
+    },
+    {
+        "id": 3,
+        "nombre": "Cuatro quesos",
+        "ingredientes": ["mozzarella", "queso azul", "parmesano", "provolone"],
+        "precio": 2000
+    },
+    {
+        "id": 4,
+        "nombre": "Hawaina",
+        "ingredientes": ["piña","jamón","queso"],
+        "precio": 1500
+    },
+    {
+        "id": 5,
+        "nombre": "Peperoni",
+        "ingredientes": ["tomate", "mozzarella", "peperoni"],
+        "precio": 2200
+    },
+    {
+        "id": 6,
+        "nombre": "Marinara",
+        "ingredientes": ["tomates", "cebollas", "ajo", "hierbas aromáticas","aceite de oliva", "ajo"],
+        "precio": 202000
+    },
+    {
+        "id": 7,
+        "nombre": "Fugazza",
+        "ingredientes": ["cebolla", "queso", "aceitunas"],
+        "precio": 5200
+    }
+]
