@@ -35,6 +35,7 @@ html, body{
 
 .pizza-id {
     margin-bottom: 1em;
+    font-family: "JetBrains Mono",monospace;
     font-size: 2rem;
     width: 150px;
     text-align: center;
